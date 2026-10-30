@@ -1,6 +1,6 @@
 # Projet 1 — Analyse des journaux d'un pare-feu
 
-**Auteur :** NGOM Khady — L3 Réseaux / Sécurité / IoT
+**Auteur :** KADIDIA DIALLO — L2  Réseaux / Sécurité / IoT
 
 Analyse d'une semaine de logs de pare-feu (`data/logs_reseau.csv`) : nettoyage, indicateurs clés,
 graphiques et détection de comportements suspects (scan de ports, exfiltration).
